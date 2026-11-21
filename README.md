@@ -116,6 +116,17 @@ Each command has its own page with a real example and what it returns:
 
 ---
 
+## Guides
+
+Longer reads for the questions a command cannot answer:
+
+- [How to track crypto whale activity](https://stridebot-production.onrender.com/guides/crypto-whale-tracking) — what a whale transfer is and how to read one without overreacting.
+- [How to set crypto price alerts on Telegram](https://stridebot-production.onrender.com/guides/crypto-price-alerts-telegram) — absolute and percentage alerts, and how to manage them.
+- [How to track congressional stock trades](https://stridebot-production.onrender.com/guides/congressional-stock-trades) — disclosures, tickers and the delay that matters.
+- [What AI crypto analysis can and cannot tell you](https://stridebot-production.onrender.com/guides/ai-crypto-analysis) — what `/analyze` does and the questions it will not answer.
+
+---
+
 ## Free and Premium
 
 **Free** includes live prices, AI coin analysis, news, watchlists and alerts, whale and congressional intelligence, prediction markets, narratives, daily briefs and referrals.
