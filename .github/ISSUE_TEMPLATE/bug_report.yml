@@ -1,0 +1,47 @@
+name: Bug report
+description: Something in StrideBot is broken or returns the wrong result.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting. Please do not include API keys, tokens, passwords or private account data.
+  - type: input
+    id: command
+    attributes:
+      label: Command or question
+      description: What did you send to the bot?
+      placeholder: "/price btc"
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What you expected
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: What happened
+      description: Paste the reply or describe the error. Screenshots are welcome if they contain no personal data.
+    validations:
+      required: true
+  - type: input
+    id: when
+    attributes:
+      label: When did it happen?
+      description: Approximate date and time, including your timezone.
+  - type: dropdown
+    id: surface
+    attributes:
+      label: Where did it happen?
+      options:
+        - Private chat with the bot
+        - Group chat
+        - Mini App
+        - Website
+        - Other
+    validations:
+      required: true

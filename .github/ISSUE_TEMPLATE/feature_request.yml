@@ -1,0 +1,27 @@
+name: Feature request
+description: Suggest a command, data source or improvement.
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem would this solve?
+      description: Describe the market question or workflow you are trying to handle.
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like StrideBot to do?
+      description: A command, an alert type, a new market, a report — anything concrete.
+    validations:
+      required: true
+  - type: dropdown
+    id: tier
+    attributes:
+      label: Who should get it?
+      options:
+        - Free
+        - Premium
+        - Either

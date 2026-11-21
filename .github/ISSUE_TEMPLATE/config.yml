@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Open StrideBot on Telegram
+    url: https://t.me/AskStrideBot
+    about: Try the bot or get help in chat.
+  - name: Updates channel
+    url: https://t.me/StreetLevelTech
+    about: Product news and market updates.
+  - name: Website
+    url: https://stridebot-production.onrender.com/
+    about: Product overview and the full command reference.

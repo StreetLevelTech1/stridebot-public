@@ -1,0 +1,356 @@
+STRIDEBOT PROPRIETARY SOFTWARE LICENSE
+Version 1.0
+
+Copyright (c) 2026 StreetLevelTech1
+All rights reserved.
+
+
+1. DEFINITIONS
+
+This Software includes, without limitation, the source code, object code,
+scripts, configuration files, documentation, database schemas, prompts,
+AI/LLM orchestration logic, algorithms, architecture, interfaces,
+technical designs, assets, and other materials distributed with or
+forming part of the Software (collectively, the "Software").
+
+"Licensor" means StreetLevelTech1.
+
+"Authorized User" means an individual or entity that has received
+explicit written authorization from the Licensor to access or use the
+Software.
+
+"Third-Party Components" means software, libraries, frameworks, models,
+APIs, datasets, services, or other materials that are owned or licensed
+by parties other than the Licensor.
+
+
+2. OWNERSHIP
+
+The Software is proprietary software owned by StreetLevelTech1.
+
+All rights, title, and interest in and to the Software, including all
+associated intellectual property rights, are retained exclusively by
+StreetLevelTech1 except for rights expressly granted under this License
+or under applicable third-party licenses.
+
+Nothing in this License transfers ownership of the Software or any
+intellectual property rights to any other person or entity.
+
+
+3. LIMITED LICENSE
+
+Subject to compliance with this License, the Licensor may grant an
+Authorized User a limited, non-exclusive, non-transferable,
+non-sublicensable, revocable license to access and use the Software solely
+for purposes expressly authorized in writing by the Licensor.
+
+Unless expressly authorized otherwise in writing, permitted use is limited
+to:
+
+- Internal development and testing
+- Authorized collaboration with invited contributors
+- Deployment and operation of the Software for purposes approved by the
+  Licensor
+
+No other rights are granted.
+
+
+4. RESTRICTIONS
+
+Except where expressly authorized in writing by the Licensor, you may NOT:
+
+- Copy, reproduce, publish, or distribute the Software or any substantial
+  portion thereof
+- Modify, adapt, translate, alter, or create derivative works based on
+  the Software
+- Reverse engineer, decompile, disassemble, or otherwise attempt to
+  discover or derive the source code, algorithms, architecture, or
+  underlying ideas of the Software, except to the limited extent such
+  restriction is prohibited by applicable law
+- Use the Software for commercial purposes
+- Sell, resell, license, sublicense, lease, rent, lend, or otherwise
+  transfer the Software or access to the Software
+- Make the Software available to third parties
+- Incorporate the Software or any substantial portion thereof into
+  another product, service, application, or system
+- Use the Software to operate or provide a competing product or service
+- Offer the Software as a hosted service, Software-as-a-Service (SaaS),
+  Platform-as-a-Service (PaaS), or similar service
+- Use the Software to provide services to third parties without explicit
+  written authorization from the Licensor
+- Remove, alter, obscure, or bypass copyright notices, license notices,
+  attribution, proprietary markings, or other ownership notices
+- Circumvent technical protections, access controls, authentication
+  mechanisms, usage restrictions, or other security measures implemented
+  by the Software
+- Disclose, publish, or make available confidential or non-public
+  portions of the Software to unauthorized third parties
+- Use the Software or its proprietary implementation to create a
+  substantially similar competing implementation where such use would
+  infringe the Licensor's intellectual property or violate applicable
+  law
+
+
+5. COMMERCIAL USE
+
+No commercial rights are granted under this License.
+
+Commercial use includes, without limitation:
+
+- Selling or reselling the Software
+- Charging users for access to the Software
+- Providing paid services using the Software
+- Hosting the Software for customers or third parties
+- Incorporating the Software into a commercial product or service
+- Operating a competing commercial service substantially based on the
+  Software
+
+Commercial use requires a separate written commercial license or other
+explicit written authorization from the Licensor.
+
+
+6. DISTRIBUTION AND REDISTRIBUTION
+
+The Software may not be distributed, redistributed, published, mirrored,
+uploaded, sublicensed, or otherwise made available to any third party
+without explicit written permission from the Licensor.
+
+Any access granted to an Authorized User does not create a right to
+redistribute or further disclose the Software.
+
+A GitHub fork, mirror, clone, archive, or other copy created through the
+technical functionality of a hosting platform does not constitute a
+grant of additional rights under this License.
+
+
+7. MODIFICATIONS AND DERIVATIVE WORKS
+
+No permission is granted to modify, adapt, translate, extend, transform,
+or create derivative works from the Software.
+
+Any modification or derivative work created with written authorization
+from the Licensor remains subject to the terms specified by the Licensor
+in that authorization.
+
+Unless otherwise agreed in writing, no modification or derivative work
+transfers any ownership interest in the original Software.
+
+
+8. CONFIDENTIAL INFORMATION
+
+Non-public portions of the Software, including source code, proprietary
+algorithms, architecture, prompts, technical designs, credentials,
+configuration, business logic, internal documentation, and other
+non-public technical or business information, may constitute confidential
+information of StreetLevelTech1.
+
+Authorized Users must protect such information using reasonable
+measures and must not disclose it to unauthorized third parties.
+
+Access to the Software does not grant permission to disclose or publish
+confidential or non-public information.
+
+
+9. INTELLECTUAL PROPERTY
+
+The Software and its original components are protected by applicable
+copyright, trade secret, trademark, and other intellectual property laws.
+
+All intellectual property rights not expressly granted under this License
+are reserved by StreetLevelTech1.
+
+This License does not grant any rights to patents, trademarks, service
+marks, trade names, logos, trade dress, or other branding owned by
+StreetLevelTech1.
+
+The names "StreetLevelTech1" and "StrideBot", together with associated
+logos, branding, and marks, remain the property of their respective
+owner and may not be used without prior written authorization.
+
+
+10. THIRD-PARTY COMPONENTS
+
+The Software may include, depend upon, communicate with, or otherwise
+use Third-Party Components.
+
+Third-Party Components remain subject to their respective licenses and
+terms.
+
+Nothing in this License is intended to restrict rights that are expressly
+granted to users under applicable third-party licenses.
+
+The Licensor makes no representation that this License supersedes,
+replaces, or modifies the license terms applicable to any Third-Party
+Component.
+
+
+11. EXTERNAL SERVICES AND APIs
+
+The Software may interact with external services, APIs, cloud providers,
+data providers, AI providers, blockchain infrastructure, databases, or
+other third-party services.
+
+Use of such services may be subject to separate terms, licenses, usage
+limits, fees, authentication requirements, and privacy policies imposed
+by their respective providers.
+
+This License does not grant permission to access or use third-party
+services except as permitted by those services' applicable terms.
+
+
+12. CONTRIBUTIONS
+
+Unless otherwise agreed in a separate written agreement, submitting,
+contributing, or authorizing code, documentation, designs, or other
+materials for inclusion in the Software does not by itself transfer
+ownership of the Software to the contributor.
+
+Contributors may be required to enter into a separate contributor,
+assignment, or collaboration agreement before their contributions are
+accepted into the Software.
+
+
+13. AUTHORIZED COLLABORATION
+
+The Licensor may grant specific individuals or organizations access to
+the Software for development, testing, maintenance, deployment, or other
+authorized purposes.
+
+Such access:
+
+- Does not transfer ownership
+- Does not grant commercial rights
+- Does not grant redistribution rights
+- Does not grant sublicensing rights
+- Does not authorize disclosure to unauthorized third parties
+- May be revoked by the Licensor subject to any separate written
+  agreement governing the collaboration
+
+
+14. TERMINATION
+
+This License and any rights granted under it may be terminated by the
+Licensor in accordance with applicable law.
+
+Any rights granted to an Authorized User will automatically terminate
+upon material breach of this License, subject to any notice or cure
+requirements imposed by applicable law or a separate written agreement.
+
+Upon termination, the Authorized User must immediately cease all
+unauthorized use of the Software and, where legally required or
+requested by the Licensor, delete or return copies of the Software and
+confidential materials in their possession or control.
+
+
+15. EFFECT OF TERMINATION
+
+Termination does not transfer ownership of the Software or any
+intellectual property rights.
+
+Any provisions that by their nature should survive termination,
+including ownership, intellectual property, confidentiality, disclaimers,
+limitations of liability, and dispute-related provisions, will survive
+termination to the extent permitted by applicable law.
+
+
+16. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTIES
+OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, TO THE
+MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, STREETLEVELTECH1 DISCLAIMS ALL
+WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, ACCURACY, RELIABILITY,
+AVAILABILITY, AND SECURITY.
+
+THE LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE,
+UNINTERRUPTED, SECURE, OR SUITABLE FOR ANY PARTICULAR PURPOSE.
+
+
+17. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, STREETLEVELTECH1
+SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL,
+EXEMPLARY, OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF PROFITS, REVENUE,
+DATA, BUSINESS, GOODWILL, OR OTHER INTANGIBLE LOSSES ARISING OUT OF OR
+RELATED TO THE SOFTWARE OR THIS LICENSE.
+
+NOTHING IN THIS LICENSE EXCLUDES OR LIMITS LIABILITY THAT CANNOT
+LAWFULLY BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW.
+
+
+18. NO TRANSFER OF RIGHTS
+
+You may not assign, transfer, delegate, sublicense, or otherwise dispose
+of any rights granted under this License without prior written consent
+from the Licensor.
+
+The Licensor may assign its rights and obligations under this License
+subject to applicable law.
+
+
+19. RESERVATION OF RIGHTS
+
+All rights not expressly granted under this License are reserved by
+StreetLevelTech1.
+
+No rights shall be implied by waiver, estoppel, custom, conduct, or
+otherwise.
+
+
+20. SEVERABILITY
+
+If any provision of this License is determined to be invalid,
+unenforceable, or unlawful, that provision shall be interpreted or
+limited to the minimum extent necessary to make it enforceable where
+permitted by law.
+
+The remaining provisions shall remain in full force and effect.
+
+
+21. NO WAIVER
+
+Failure by the Licensor to enforce any provision of this License shall
+not constitute a waiver of that provision or of the Licensor's right to
+enforce it in the future.
+
+
+22. ENTIRE AGREEMENT
+
+This License constitutes the entire agreement concerning the Software
+and supersedes prior statements or understandings concerning the
+licensing of the Software, except where a separate written agreement
+expressly supersedes or supplements this License.
+
+Any additional permissions must be granted in writing by the Licensor.
+
+
+23. GOVERNING LAW
+
+This License shall be governed by and interpreted in accordance with
+the laws of the jurisdiction specified by the Licensor in a separate
+written agreement or, where no such agreement exists, the applicable
+laws of the jurisdiction in which the Licensor is legally established,
+without regard to conflict-of-law principles.
+
+Any mandatory rights or protections provided by applicable law remain
+unaffected.
+
+
+24. CONTACT AND LICENSING
+
+Requests for commercial licensing, authorized access, collaboration,
+redistribution, or other permissions should be directed to:
+
+StreetLevelTech1
+Email: adetonamayowa25@gmail.com
+
+
+25. COPYRIGHT NOTICE
+
+Copyright (c) 2026 StreetLevelTech1
+All rights reserved.
+
+Last Updated: August 17, 2026
+License Version: 1.0
