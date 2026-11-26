@@ -6,7 +6,7 @@
 
 ![StrideBot — AI financial intelligence inside Telegram](assets/og.png)
 
-StrideBot covers crypto, forex, stocks, macro and prediction markets in one chat. It is free to start, works in private chats and groups, and answers with live data instead of canned text.
+StrideBot covers crypto, forex, stocks, macro and prediction markets in one chat. It is free to start, works in private chats and groups, and answers with live data instead of canned text. Data answers carry a source, an as-of timestamp and a link where available, so you can tell a live figure from a stale one.
 
 ---
 
@@ -14,6 +14,7 @@ StrideBot covers crypto, forex, stocks, macro and prediction markets in one chat
 
 - **Live prices** — crypto, stocks and forex, including NGN exchange rates.
 - **AI analysis** — coin and forex analysis built from live data, plus deep stock analysis and topic research on Premium.
+- **Checkable answers** — market answers show which provider served the data and when it was fetched; web-sourced research includes its sources.
 - **Market overview** — top movers, a full market update, and the current market regime (risk-on / risk-off).
 - **News that matters** — headlines, AI summaries, and topic monitors that only report worthwhile updates.
 - **Watchlists and price alerts** — track the assets you care about and get a message when a target is hit.
@@ -62,7 +63,7 @@ Prefer a visual view? Open the **Mini App** from `/start` or `/help` for live ma
 | Command | What it does |
 |---|---|
 | `/analyze <coin>` | AI analysis of a coin using live data |
-| `/forexanalysis` | Forex pair analysis and outlook |
+| `/forexanalysis <pair>` | Forex pair analysis and outlook, e.g. `/forexanalysis EURUSD` |
 | `/summary` | AI-curated news summary |
 | `/news` | Latest financial headlines |
 | `/track <topic>` | Monitor a topic and report what matters (`/track list`, `/track cancel <number>`) |
@@ -92,6 +93,7 @@ Prefer a visual view? Open the **Mini App** from `/start` or `/help` for live ma
 | `/refer` | Invite friends and earn rewards |
 | `/myplan` | Check your subscription — **Premium** |
 | `/mymemory` | See and manage what StrideBot remembers |
+| `/remind` | Set a one-off or recurring reminder in your timezone |
 | `/privacy` | Control memory and personalisation |
 | `/help` | Full command menu |
 
@@ -163,10 +165,10 @@ Yes. All the free commands above cost nothing. Premium adds the extras listed un
 No. StrideBot runs inside Telegram. Send a command or ask a market question in plain language.
 
 **Does StrideBot give investment advice?**
-No. It provides live market data and analysis — the decision is always yours.
+No. It provides live market data and analysis, not recommendations. It won't tell you what to buy or sell — even if you ask for a pick or add "not financial advice" to the question. The decision is always yours.
 
 **How fresh is the data?**
-Crypto prices refresh on a short cycle, stock quotes are market-hours aware, and analysis is generated from live data when you ask. When a feed is down, StrideBot says so instead of guessing.
+Crypto prices refresh on a short cycle, stock quotes are market-hours aware, and analysis is generated from live data when you ask. Market answers show the source and an as-of timestamp; older snapshots are labelled as stale or expired. When a feed is down, StrideBot says so instead of guessing.
 
 **Can I use StrideBot in a group?**
 Yes. Add **@AskStrideBot** to a group and mention it to get prices and analysis in the conversation.
